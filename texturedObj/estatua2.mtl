@@ -1,0 +1,17 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 07.12.2011 13:29:46
+
+newmtl Material 01
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 0.135 0.135 0.135
+Ke 0.0 0.0 0.0
+Ns 10
+illum 2
+map_Kd DavidFixedDiff.jpg
+
+
+
+
+
+
